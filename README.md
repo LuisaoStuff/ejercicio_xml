@@ -8,4 +8,4 @@
 
 # Ejercicio 4: 	Muestra los géneros relacionados con la saga de juegos Alien
 
-# Ejercicio 5: 	Calcula la media obtenida por los juegos desarrollados por Capcom, y muestra solo aquellos que estuvieron por encima de 		ella.
+# Ejercicio 5: Pide el nombre de una compañia por teclado, calcula la media obtenida por los juegos desarrollados y muestrala por pantalla. 
