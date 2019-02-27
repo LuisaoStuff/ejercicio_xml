@@ -16,9 +16,11 @@
 
 ### 	Ejercicio 4
 
-	Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si no existe muestra un error.
+	Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si
+	no existe muestra un error.
 
 ### 	Ejercicio 5
 
-	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga (los títulos, edad recomendada e historia si tiene)
+	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga 
+	(los títulos, edad recomendada e historia si tiene)
 
