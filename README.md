@@ -1,11 +1,14 @@
 # ejercicio_xml
 
-# Ejercicio 1: 	Listar todos los juegos de plataformas
+# Enunciado Atari's años 70 hasta los 90
 
-# Ejercicio 2: 	Cuenta todos los juegos que desarrolló Konami en 1995
+# Lista los titulos de los juegos desarrollados en los años 80
 
-# Ejercicio 3: 	Muestra los títulos de los juegos de un solo jugador manufacturados por Nintendo
+# Cuenta el número de juegos recomendados para mayores de 17 años o adultos
 
-# Ejercicio 4: 	Muestra los géneros relacionados con la saga de juegos Alien
+# Filtra los juegos desarrollados por Atari Ink
 
-# Ejercicio 5: Pide el nombre de una compañia por teclado, calcula la media obtenida por los juegos desarrollados y muestrala por pantalla. 
+# Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si no existe muestra un error.
+
+# Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga (los títulos, edad recomendada e historia si tiene)
+
