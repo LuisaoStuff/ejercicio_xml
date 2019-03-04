@@ -4,7 +4,7 @@
 
 	**Ejercicio 1**
 
-	Lista los titulos de los juegos desarrollados en los años 80
+	Pide un año por teclado y muestra todos los juegos desarrollados en dicho año
 
 	**Ejercicio 2**
 
