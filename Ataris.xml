@@ -59,7 +59,7 @@
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Activision, Inc.</manufacturer>
 				<dev>Activision, Inc.</dev>
-				<genre>Sports/Track & Field</genre>
+				<genre>Sports/Track and Field</genre>
 				<score>4.0</score>
 				<player>1-4 Players</player>
 				<story>The Activision Decathlon is a series of Olympic games similar to the Epyx games series. Up to four players can compete in the ten different events of a real-life decathlon, either in sequence or individually. Included are the 100-meter dash, long jump, shot put, high jump, 400-meter race, 110-meter hurdles, discus throw, pole vault, javelin throw, and 1500-meter race. ****The flat running events involve simple joystick waggling, which must be balanced with accurately-timed button presses to clear the hurdles - hitting them or breaking stride causes a loss of momentum and thus time. For jumping and throwing events, you must build momentum by waggling and then press the button to throw or jump at what you feel is the appropriate moment.****For each event, points are earned based on how well you do (this can be based on your running time, or how far you throw the javelin or discus, etc...), and the player with the most points at the end of the decathlon wins the gold medal.</story>
@@ -77,7 +77,7 @@
 				<genre>Adventure</genre>
 				<score>3.8</score>
 				<player>1 Player</player>
-				<story>A graphic dungeon quest inspired by the old mainframe game of the same name, Adventure is a graphic adventure where you use your joystick to wander around, collecting keys to explore castles, labyrinths and everything in between, whilst slaying anything that moves (i.e. Dragons & Co.) to get treasures. ****The game has 3 difficulty settings:****1. Level 1 (Easiest)**2. Level 2: The Kingdom is larger than Level 1, containing secret rooms and hidden items to add difficulty.**3. Level 3 (Hardest): Similar to Level 2 but all objects/items are placed randomly throughout the Kingdom.****Gameplay revolves around picking up (and dropping) items, hacking your way though dragons, finding keys to open the castle gates and using magic (i.e. reincarnation) in case you get swallowed by failing-to-follow-their-diet-plan-dragons.</story>
+				<story>A graphic dungeon quest inspired by the old mainframe game of the same name, Adventure is a graphic adventure where you use your joystick to wander around, collecting keys to explore castles, labyrinths and everything in between, whilst slaying anything that moves (i.e. Dragons and Co.) to get treasures. ****The game has 3 difficulty settings:****1. Level 1 (Easiest)**2. Level 2: The Kingdom is larger than Level 1, containing secret rooms and hidden items to add difficulty.**3. Level 3 (Hardest): Similar to Level 2 but all objects/items are placed randomly throughout the Kingdom.****Gameplay revolves around picking up (and dropping) items, hacking your way though dragons, finding keys to open the castle gates and using magic (i.e. reincarnation) in case you get swallowed by failing-to-follow-their-diet-plan-dragons.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -519,7 +519,7 @@
 				<_name>Beany Bopper (USA)</_name>
 			</game>
 			<game>
-				<description>Beat 'Em & Eat 'Em</description>
+				<description>Beat 'Em and Eat 'Em</description>
 				<year>1982</year>
 				<rating>ESRB - M (Mature)</rating>
 				<manufacturer>PlayAround</manufacturer>
@@ -531,7 +531,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Beat 'Em & Eat 'Em (USA)</_name>
+				<_name>Beat 'Em and Eat 'Em (USA)</_name>
 			</game>
 			<game>
 				<description>Berenstain Bears</description>
@@ -2427,7 +2427,7 @@
 				<description>Glib - Video Word Game</description>
 				<year>1983</year>
 				<rating>ESRB - E (Everyone)</rating>
-				<manufacturer>Selchow & Righter</manufacturer>
+				<manufacturer>Selchow and Righter</manufacturer>
 				<dev>Qualtronic Devices, Inc.</dev>
 				<genre>Board Games</genre>
 				<score>0.8</score>
@@ -2492,7 +2492,7 @@
 				<genre>Shoot-'Em-Up</genre>
 				<score>3.0</score>
 				<player>1 Player</player>
-				<story>"Gorf is a game similar to Space Invaders, alien vessels approach closer and closer in their threatening row formation.The game itself consists of four levels:1. The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship & shield on one side and the aliens on the other side;The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading ""towards"" your destination. Alien vessels flying in circular formation try to stop you;The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.Finishing the game increases your rank and starts the game over at level 1 with a faster game speed for more challenge."</story>
+				<story>"Gorf is a game similar to Space Invaders, alien vessels approach closer and closer in their threatening row formation.The game itself consists of four levels:1. The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship and shield on one side and the aliens on the other side;The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading ""towards"" your destination. Alien vessels flying in circular formation try to stop you;The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.Finishing the game increases your rank and starts the game over at level 1 with a faster game speed for more challenge."</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -2679,7 +2679,7 @@
 				<_name>Human Cannonball (USA)</_name>
 			</game>
 			<game>
-				<description>Hunt & Score</description>
+				<description>Hunt and Score</description>
 				<year>1978</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Atari, Inc.</manufacturer>
@@ -2687,11 +2687,11 @@
 				<genre>Puzzle</genre>
 				<score>1.6</score>
 				<player>1-2 Players</player>
-				<story>Hunt & Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</story>
+				<story>Hunt and Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Hunt & Score (USA)</_name>
+				<_name>Hunt and Score (USA)</_name>
 			</game>
 			<game>
 				<description>Ice Hockey</description>
@@ -3857,7 +3857,7 @@
 				<genre>Action</genre>
 				<score>4.0</score>
 				<player>1 Player</player>
-				<story>"A classic Asterix & Obelix game where you simultaneously play as (both) Asterix and Obelix maintaining their favorite Gaulish sport of thumping the living daylights out of Roman soldiers.The objective of the game is to help Asterix ""stun"" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.If by any chance a stunned soldier is not whacked by a flying menhir, they turn ""red"" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the ""red"" Romans, so be ready to catch some when Getafix comes knocking.There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points."</story>
+				<story>"A classic Asterix and Obelix game where you simultaneously play as (both) Asterix and Obelix maintaining their favorite Gaulish sport of thumping the living daylights out of Roman soldiers.The objective of the game is to help Asterix ""stun"" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.If by any chance a stunned soldier is not whacked by a flying menhir, they turn ""red"" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the ""red"" Romans, so be ready to catch some when Getafix comes knocking.There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points."</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -4157,7 +4157,7 @@
 				<genre>Mature</genre>
 				<score>0.9</score>
 				<player>1 Player</player>
-				<story>"Philly Flasher is a graphically altered version of Beat 'Em & Eat 'Em with guys (or a guy) doing the catching and what they are catching looks to be milk from a witch's tit. The game plays just like Beat 'Em & Eat 'Em otherwise except the guy(s) masturbate after each round. Cathouse Blues is a graphically altered version of Gigolo in which you are a guy going to various whorehouses to get ""serviced"". The game is otherwise the same as Gigolo."</story>
+				<story>"Philly Flasher is a graphically altered version of Beat 'Em and Eat 'Em with guys (or a guy) doing the catching and what they are catching looks to be milk from a witch's tit. The game plays just like Beat 'Em and Eat 'Em otherwise except the guy(s) masturbate after each round. Cathouse Blues is a graphically altered version of Gigolo in which you are a guy going to various whorehouses to get ""serviced"". The game is otherwise the same as Gigolo."</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -4367,7 +4367,7 @@
 				<genre>Action</genre>
 				<score>0.8</score>
 				<player>1 Player</player>
-				<story>"You play as Edward ""Pee Wee"" Morris, who, despite his shortcomings, strives to get revenge on Porky, the owner of the bar that dissed Pee Wee and his friends.County Line-----------------You begin at the county line. You must move up from highway lane to highway lane without getting hit. You get points for dodging various obstacles on your way to Porky's.Motor Boat=1 pointThe Police=100 pointsPorky's Girls=200 pointsAttack Pigs=400 pointsPorky's Bouncers=800 pointsPig Mobile=1600 pointsLast Band=3200 pointsPorky's Bar-----------------After you get all the way to the top, you enter Porky's Bar, where you have to travel the correct path up  the scaffolding, planting charges as you go. If you get to the top, there will be a detonator and so long Porky's! If you fall and Porky catches you, it is off to the swamp.Porky catches you=lose 200 pointsWhat points you get for exiting the scaffolding depends on the difficulty you have set the game to. The points are from 100 to 3200.The Swamp-----------------If you get caught on any other screen, you end up here. You must pole vault up and release when in mid-flight to get up to one of the platforms.The first time you are there, you have to collect bricks then place then on the wall on the other side until you can climb out. If you are sent to the swamp a second time, you can climb out right away but look out for Porky.Place a brick=100 pointsGetting out of the swamp screen=100 pointsEach pole vault jump=lose 25 pointsFalling into swamp=lose 100 pointsCaught by Porky=lose a random number of pointsThe Shower-------------------Push the random object that appears at center, top into the pit at the bottom without getting caught by Ms. Balbricker or falling in the pit the climb out the top back to the county line. Every time you get through the shower, you stop or slow a lane on the highway.You get 100 points for pushing an object into the pit.You lose 200 points if you fall in the pit or are caught by Ms. Balbricker.Every ten seconds you are in the shower, you lose ten points so don't dawdle.The difficulty settings:Left difficulty switch set to A=Shower scene most difficultLeft difficulty switch set to B=Shower scene less difficultRight difficulty switch set to A=Swamp scene most difficultRight difficulty switch set to B=Swamp scene less difficultB&W/Color switch set to black & white=Balbricker most aggressiveB&W/Color switch set to color=Balbricker less aggressive"</story>
+				<story>"You play as Edward ""Pee Wee"" Morris, who, despite his shortcomings, strives to get revenge on Porky, the owner of the bar that dissed Pee Wee and his friends.County Line-----------------You begin at the county line. You must move up from highway lane to highway lane without getting hit. You get points for dodging various obstacles on your way to Porky's.Motor Boat=1 pointThe Police=100 pointsPorky's Girls=200 pointsAttack Pigs=400 pointsPorky's Bouncers=800 pointsPig Mobile=1600 pointsLast Band=3200 pointsPorky's Bar-----------------After you get all the way to the top, you enter Porky's Bar, where you have to travel the correct path up  the scaffolding, planting charges as you go. If you get to the top, there will be a detonator and so long Porky's! If you fall and Porky catches you, it is off to the swamp.Porky catches you=lose 200 pointsWhat points you get for exiting the scaffolding depends on the difficulty you have set the game to. The points are from 100 to 3200.The Swamp-----------------If you get caught on any other screen, you end up here. You must pole vault up and release when in mid-flight to get up to one of the platforms.The first time you are there, you have to collect bricks then place then on the wall on the other side until you can climb out. If you are sent to the swamp a second time, you can climb out right away but look out for Porky.Place a brick=100 pointsGetting out of the swamp screen=100 pointsEach pole vault jump=lose 25 pointsFalling into swamp=lose 100 pointsCaught by Porky=lose a random number of pointsThe Shower-------------------Push the random object that appears at center, top into the pit at the bottom without getting caught by Ms. Balbricker or falling in the pit the climb out the top back to the county line. Every time you get through the shower, you stop or slow a lane on the highway.You get 100 points for pushing an object into the pit.You lose 200 points if you fall in the pit or are caught by Ms. Balbricker.Every ten seconds you are in the shower, you lose ten points so don't dawdle.The difficulty settings:Left difficulty switch set to A=Shower scene most difficultLeft difficulty switch set to B=Shower scene less difficultRight difficulty switch set to A=Swamp scene most difficultRight difficulty switch set to B=Swamp scene less difficultBandW/Color switch set to black and white=Balbricker most aggressiveBandW/Color switch set to color=Balbricker less aggressive"</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -4603,7 +4603,7 @@
 				<year>1982</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Parker Brothers</manufacturer>
-				<dev>D. Gottlieb & Co.</dev>
+				<dev>D. Gottlieb and Co.</dev>
 				<genre>Action</genre>
 				<score>3.5</score>
 				<player>1 Player</player>
@@ -6462,12 +6462,12 @@
 				<description>Tooth Protectors</description>
 				<year>1983</year>
 				<rating>ESRB - E (Everyone)</rating>
-				<manufacturer>Johnson & Johnson</manufacturer>
+				<manufacturer>Johnson and Johnson</manufacturer>
 				<dev>DSD-Camelot</dev>
 				<genre>Action</genre>
 				<score>4.0</score>
 				<player>1 Player</player>
-				<story>In this game, you are T. P., the Tooth Protector, and are trying to protect some teeth from tooth decay by the Snack Attacks. Snack Attack moves across the top of the screen dropping snack food crumbs towards the teeth. You move at the bottom of the screen, just above the teeth. You must deflect the crumbs back up, hopefully hitting Snack Attack or a falling crumb for points. Each round is time-limited. You play until the time runs out then you get bonus points depending on weather you lost any teeth and how many. Occasionally, Snack Attack will try to swoop down and grab you. If you are caught, you lose a man. If one or more of your teeth are in danger of being lost, indicated by it flashing, you can press your fire button to Reach toothbrush, Johnson & Johnson dental  floss and Act fluoride dental rinse to save that/those tooth/teeth. You get three of these cleanings to start but earn bonus cleanings every 50,000 points. The game is over after you lose all three of your men or lose three of your teeth.</story>
+				<story>In this game, you are T. P., the Tooth Protector, and are trying to protect some teeth from tooth decay by the Snack Attacks. Snack Attack moves across the top of the screen dropping snack food crumbs towards the teeth. You move at the bottom of the screen, just above the teeth. You must deflect the crumbs back up, hopefully hitting Snack Attack or a falling crumb for points. Each round is time-limited. You play until the time runs out then you get bonus points depending on weather you lost any teeth and how many. Occasionally, Snack Attack will try to swoop down and grab you. If you are caught, you lose a man. If one or more of your teeth are in danger of being lost, indicated by it flashing, you can press your fire button to Reach toothbrush, Johnson and Johnson dental  floss and Act fluoride dental rinse to save that/those tooth/teeth. You get three of these cleanings to start but earn bonus cleanings every 50,000 points. The game is over after you lose all three of your men or lose three of your teeth.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -6504,7 +6504,7 @@
 				<_name>Towering Inferno (USA)</_name>
 			</game>
 			<game>
-				<description>Track & Field</description>
+				<description>Track and Field</description>
 				<year>1984</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Atari Corporation</manufacturer>
@@ -6512,11 +6512,11 @@
 				<genre>Sports/Olympic</genre>
 				<score>3.2</score>
 				<player>1-2 Players</player>
-				<story>Track & Field is a sports game that allows the player to have an experience based around the Summer Olympic Games. It is based on an arcade game of the same name. Events include 100 meter dash, hammer throw, the long jump and the 110 meter hurdles.The MSX version replaces the hurdles with a 400 meter dash.The NES version adds skeet shooting, triple jump, javelin throw, high jump, and archery as events but loses the hammer throw event. The NES version also keeps the 110 meter hurdles and forgoes the 400 meter dash.If you want to go to the next event or round then you will have to qualify, by beating increasingly difficult maximum times or minimum distances. This game contains a two player option, in which the players take it in turns.</story>
+				<story>Track and Field is a sports game that allows the player to have an experience based around the Summer Olympic Games. It is based on an arcade game of the same name. Events include 100 meter dash, hammer throw, the long jump and the 110 meter hurdles.The MSX version replaces the hurdles with a 400 meter dash.The NES version adds skeet shooting, triple jump, javelin throw, high jump, and archery as events but loses the hammer throw event. The NES version also keeps the 110 meter hurdles and forgoes the 400 meter dash.If you want to go to the next event or round then you will have to qualify, by beating increasingly difficult maximum times or minimum distances. This game contains a two player option, in which the players take it in turns.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Track & Field (USA)</_name>
+				<_name>Track and Field (USA)</_name>
 			</game>
 			<game>
 				<description>Treasure Below</description>
@@ -6764,7 +6764,7 @@
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Sears, Roebuck and Co.</manufacturer>
 				<dev>Atari, Inc.</dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score>2.7</score>
 				<player>1-4 Players</player>
 				<story>Video Olympics is an action game containing numerous variations of the game Pong. Two players (or one player against the computer) control paddles on the screen and attempt to prevent a bouncing ball from getting past them. In the most basic game variations, each player has a single paddle and there are no obstacles on the screen. The other game variations add paddles and obstacles, and some are loosely inspired by various sports and change the playfield around, but the goal remains the same: hit the ball past your opponents paddle into the goal to earn points. A few of these variations are:1. Foozpong: Each player controls multiple paddles which are arranged somewhat like a foozball table.2. Soccer pong: Each player controls two paddles (representing one goalie and one player) and the goal is much narrower.3. Hockey pong: The playfield is set up to resemble hockey; the goal isn't at the very edge of the screen, so the ball may bounce behind and around the goal.4. Quadrapong: The goals are located along the top, right, bottom, and left sides of the screen. This game is played by four players, two per team with one person defending each of the four goals.5. Handball pong: There is no goal, and two players take turns hitting the ball against a solid wall to earn points. One point is earned each time your opponent is unable to return the ball.6. Volleyball pong: The screen is set up like a volleyball court with a "net" in the middle. Both players are along the bottom of the screen and need to bounce the ball past their opponent.7. Basketball pong: Each player controls a paddle on the bottom of the screen, and attempts to hit the ball into their opponents basket at the top.</story>
@@ -7420,7 +7420,7 @@
 				<genre>Action</genre>
 				<score>2.9</score>
 				<player>1-2 Players</player>
-				<story>"Gorf is a game similar to Space Invaders, alien vessels approach closer and closer in their threatening row formation.****The game itself consists of four levels:****1. The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship & shield on one side and the aliens on the other side;****The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;****The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading ""towards"" your destination. Alien vessels flying in circular formation try to stop you;****The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.****Finishing the game increases your rank and starts the game over at level 1 with a faster game speed for more challenge."</story>
+				<story>"Gorf is a game similar to Space Invaders, alien vessels approach closer and closer in their threatening row formation.****The game itself consists of four levels:****1. The first level has you behind a defensive shield, defending against an alien attack. The level is a top-down view, with your ship and shield on one side and the aliens on the other side;****The second level is similar to the first, only your defensive shield is gone, and the enemies tend to swoop down over the level as opposed to those row formations. Bonus ships also tend to appear in this level;****The third level is a change, and has you entering hyperspace. Your only goal is to survive to the end of your journey. The viewpoint switches from a top-down view to a behind-the-ship view and in effect you are heading ""towards"" your destination. Alien vessels flying in circular formation try to stop you;****The fourth and final level is similar to the first again, with some key differences. You do not fight a wave of enemies, but a single one. A mothership with a glowing weak spot. Hitting the weak spot will instantly destroy it. The mothership also has that same shield that was yours in the first level.****Finishing the game increases your rank and starts the game over at level 1 with a faster game speed for more challenge."</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -7821,7 +7821,7 @@
 				<year>1983</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Parker Brothers</manufacturer>
-				<dev>D. Gottlieb & Co.</dev>
+				<dev>D. Gottlieb and Co.</dev>
 				<genre>Action</genre>
 				<score>3.4</score>
 				<player>1-2 Players</player>
@@ -9971,7 +9971,7 @@
 				<_name>Adventures of Maddog Williams, The - The Dungeons of Duridian (Europe)</_name>
 			</game>
 			<game>
-				<description>Adventures of Quik & Silva, The (Europe)</description>
+				<description>Adventures of Quik and Silva, The (Europe)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>New Bits on the Ram</manufacturer>
@@ -9983,7 +9983,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Adventures of Quik & Silva, The (Europe)</_name>
+				<_name>Adventures of Quik and Silva, The (Europe)</_name>
 			</game>
 			<game>
 				<description>Adventures of Robin Hood, The (Europe)</description>
@@ -13391,7 +13391,7 @@
 				<_name>Bismarck (USA)</_name>
 			</game>
 			<game>
-				<description>Black & White (Germany) (Unl)</description>
+				<description>Black and White (Germany) (Unl)</description>
 				<year>19xx</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Dirk Schatz</manufacturer>
@@ -13403,7 +13403,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Black & White (Germany) (Unl)</_name>
+				<_name>Black and White (Germany) (Unl)</_name>
 			</game>
 			<game>
 				<description>Black Box (Germany) (Unl)</description>
@@ -14371,7 +14371,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Krisalis</manufacturer>
 				<dev></dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -15466,7 +15466,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Psygnosis</manufacturer>
 				<dev></dev>
-				<genre>Sports/Track & Field</genre>
+				<genre>Sports/Track and Field</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -15481,7 +15481,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Psygnosis</manufacturer>
 				<dev></dev>
-				<genre>Sports/Track & Field</genre>
+				<genre>Sports/Track and Field</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -16454,7 +16454,7 @@
 				<description>Chuckie Egg (Europe)</description>
 				<year>1988</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Pick & Choose</manufacturer>
+				<manufacturer>Pick and Choose</manufacturer>
 				<dev></dev>
 				<genre>Platform</genre>
 				<score></score>
@@ -16469,7 +16469,7 @@
 				<description>Chuckie Egg II (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Pick & Choose</manufacturer>
+				<manufacturer>Pick and Choose</manufacturer>
 				<dev></dev>
 				<genre>Platform</genre>
 				<score></score>
@@ -16601,7 +16601,7 @@
 				<_name>Classiques I (France)</_name>
 			</game>
 			<game>
-				<description>Clever & Smart (Europe)</description>
+				<description>Clever and Smart (Europe)</description>
 				<year>1987</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Magic Bytes</manufacturer>
@@ -16613,7 +16613,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Clever & Smart (Europe)</_name>
+				<_name>Clever and Smart (Europe)</_name>
 			</game>
 			<game>
 				<description>Clogged Up (Europe) (Unl)</description>
@@ -17396,7 +17396,7 @@
 				<_name>Crack'ed (Europe)</_name>
 			</game>
 			<game>
-				<description>Crafton & Xunk (Europe)</description>
+				<description>Crafton and Xunk (Europe)</description>
 				<year>1987</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Ere Informatique</manufacturer>
@@ -17408,7 +17408,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Crafton & Xunk (Europe)</_name>
+				<_name>Crafton and Xunk (Europe)</_name>
 			</game>
 			<game>
 				<description>Crapman (Europe) (Unl)</description>
@@ -17549,7 +17549,7 @@
 				<description>Cricket Captain (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Cricket</genre>
 				<score></score>
@@ -19019,7 +19019,7 @@
 				<description>Destruction Imminent (Europe) (Unl)</description>
 				<year>1996</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Cunning & Devious Games</manufacturer>
+				<manufacturer>Cunning and Devious Games</manufacturer>
 				<dev></dev>
 				<genre>Adventure</genre>
 				<score></score>
@@ -22721,7 +22721,7 @@
 				<_name>Flip-Flop (Europe)</_name>
 			</game>
 			<game>
-				<description>Flip-it & Magnose - Water Carriers From Mars (Europe)</description>
+				<description>Flip-it and Magnose - Water Carriers From Mars (Europe)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Image Works</manufacturer>
@@ -22733,7 +22733,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Flip-it & Magnose - Water Carriers From Mars (Europe)</_name>
+				<_name>Flip-it and Magnose - Water Carriers From Mars (Europe)</_name>
 			</game>
 			<game>
 				<description>Flipside (USA)</description>
@@ -22841,7 +22841,7 @@
 				<_name>Food Fight (USA) (Unl)</_name>
 			</game>
 			<game>
-				<description>Fool's Errand, The (USA) (Disk 1) (Game & Prologue)</description>
+				<description>Fool's Errand, The (USA) (Disk 1) (Game and Prologue)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Miles Computing</manufacturer>
@@ -22853,10 +22853,10 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Fool's Errand, The (USA) (Disk 1) (Game & Prologue)</_name>
+				<_name>Fool's Errand, The (USA) (Disk 1) (Game and Prologue)</_name>
 			</game>
 			<game>
-				<description>Fool's Errand, The (USA) (Disk 2) (Puzzle & Final)</description>
+				<description>Fool's Errand, The (USA) (Disk 2) (Puzzle and Final)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Miles Computing</manufacturer>
@@ -22868,7 +22868,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Fool's Errand, The (USA) (Disk 2) (Puzzle & Final)</_name>
+				<_name>Fool's Errand, The (USA) (Disk 2) (Puzzle and Final)</_name>
 			</game>
 			<game>
 				<description>Football Champ (Europe) (Disk 1)</description>
@@ -22919,7 +22919,7 @@
 				<description>Football Director (Europe)</description>
 				<year>1988</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Soccer</genre>
 				<score></score>
@@ -22934,7 +22934,7 @@
 				<description>Football Director II (Europe)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Soccer</genre>
 				<score></score>
@@ -27631,7 +27631,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Durank</manufacturer>
 				<dev></dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -28601,7 +28601,7 @@
 				<_name>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 2) (Course)</_name>
 			</game>
 			<game>
-				<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 3) (Castle Pines & Desert Mountain)</description>
+				<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 3) (Castle Pines and Desert Mountain)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Accolade</manufacturer>
@@ -28613,7 +28613,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 3) (Castle Pines & Desert Mountain)</_name>
+				<_name>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 3) (Castle Pines and Desert Mountain)</_name>
 			</game>
 			<game>
 				<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (Europe) (Disk 4) (Great Courses of US Open)</description>
@@ -34091,7 +34091,7 @@
 				<_name>Monkey Business (USA)</_name>
 			</game>
 			<game>
-				<description>Monkeys & Balloons (USA) (Unl)</description>
+				<description>Monkeys and Balloons (USA) (Unl)</description>
 				<year>1988</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Regent Software</manufacturer>
@@ -34103,7 +34103,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Monkeys & Balloons (USA) (Unl)</_name>
+				<_name>Monkeys and Balloons (USA) (Unl)</_name>
 			</game>
 			<game>
 				<description>Monopoly (USA) (Unl)</description>
@@ -34499,7 +34499,7 @@
 				<description>Multi Player Soccer Manager (Europe)</description>
 				<year>1991</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Soccer</genre>
 				<score></score>
@@ -35531,7 +35531,7 @@
 				<_name>Noddy's Playtime (Europe)</_name>
 			</game>
 			<game>
-				<description>Nord & Bert (USA)</description>
+				<description>Nord and Bert (USA)</description>
 				<year>1987</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Infocom</manufacturer>
@@ -35543,10 +35543,10 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Nord & Bert (USA)</_name>
+				<_name>Nord and Bert (USA)</_name>
 			</game>
 			<game>
-				<description>North & South (Europe)</description>
+				<description>North and South (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Infogrames</manufacturer>
@@ -35558,7 +35558,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>North & South (Europe)</_name>
+				<_name>North and South (Europe)</_name>
 			</game>
 			<game>
 				<description>North Sea Inferno, The (Europe)</description>
@@ -41444,7 +41444,7 @@
 				<description>Rugby Coach (Europe)</description>
 				<year>1992</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Rugby</genre>
 				<score></score>
@@ -41771,7 +41771,7 @@
 				<_name>Safari Guns (Europe)</_name>
 			</game>
 			<game>
-				<description>Saint & Greavsie (Europe)</description>
+				<description>Saint and Greavsie (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Grandslam Entertainment</manufacturer>
@@ -41783,7 +41783,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Saint & Greavsie (Europe)</_name>
+				<_name>Saint and Greavsie (Europe)</_name>
 			</game>
 			<game>
 				<description>Saint Dragon (Europe)</description>
@@ -42659,7 +42659,7 @@
 				<description>Shocker - Mad Martin's Revenge (Germany)</description>
 				<year>1994</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Hintzen & Verwphlt Gbr</manufacturer>
+				<manufacturer>Hintzen and Verwphlt Gbr</manufacturer>
 				<dev></dev>
 				<genre>Puzzle</genre>
 				<score></score>
@@ -42674,7 +42674,7 @@
 				<description>Shocker 2 - The House of Games (Germany)</description>
 				<year>1993</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Hintzen & Verwphlt Gbr</manufacturer>
+				<manufacturer>Hintzen and Verwphlt Gbr</manufacturer>
 				<dev></dev>
 				<genre>Puzzle</genre>
 				<score></score>
@@ -42766,7 +42766,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Broderbund</manufacturer>
 				<dev></dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -43406,7 +43406,7 @@
 				<_name>Skystrike Plus (Europe)</_name>
 			</game>
 			<game>
-				<description>Slackskin & Flint (Europe)</description>
+				<description>Slackskin and Flint (Europe)</description>
 				<year>1992</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Fun Factory</manufacturer>
@@ -43418,7 +43418,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Slackskin & Flint (Europe)</_name>
+				<_name>Slackskin and Flint (Europe)</_name>
 			</game>
 			<game>
 				<description>Slap Fight (Europe)</description>
@@ -43946,7 +43946,7 @@
 				<_name>Sonic Boom (Europe)</_name>
 			</game>
 			<game>
-				<description>Sooty & Sweep (Europe)</description>
+				<description>Sooty and Sweep (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Alternative Software</manufacturer>
@@ -43958,7 +43958,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Sooty & Sweep (Europe)</_name>
+				<_name>Sooty and Sweep (Europe)</_name>
 			</game>
 			<game>
 				<description>Sophelie (Europe)</description>
@@ -45404,7 +45404,7 @@
 				<description>Star Trek - The Rebel Universe (USA)</description>
 				<year>1987</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>Simon & Shuster</manufacturer>
+				<manufacturer>Simon and Shuster</manufacturer>
 				<dev></dev>
 				<genre>Simulation</genre>
 				<score></score>
@@ -45496,7 +45496,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Rainbow Arts</manufacturer>
 				<dev></dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score></score>
 				<player></player>
 				<story></story>
@@ -46259,7 +46259,7 @@
 				<description>Striker Manager (Europe)</description>
 				<year>1992</year>
 				<rating>Other - NR (Not Rated)</rating>
-				<manufacturer>D & H Games</manufacturer>
+				<manufacturer>D and H Games</manufacturer>
 				<dev></dev>
 				<genre>Sports/Soccer</genre>
 				<score></score>
@@ -48086,7 +48086,7 @@
 				<_name>Third Reich (USA)</_name>
 			</game>
 			<game>
-				<description>Thomas the Tank Engine & Friends (USA)</description>
+				<description>Thomas the Tank Engine and Friends (USA)</description>
 				<year>1992</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Alternative Software</manufacturer>
@@ -48098,7 +48098,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Thomas the Tank Engine & Friends (USA)</_name>
+				<_name>Thomas the Tank Engine and Friends (USA)</_name>
 			</game>
 			<game>
 				<description>Thomas the Tank Engine 2 (USA)</description>
@@ -48641,7 +48641,7 @@
 				<_name>Tolteka (Europe)</_name>
 			</game>
 			<game>
-				<description>Tom & Jerry (Europe)</description>
+				<description>Tom and Jerry (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Magic Bytes</manufacturer>
@@ -48653,10 +48653,10 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Tom & Jerry (Europe)</_name>
+				<_name>Tom and Jerry (Europe)</_name>
 			</game>
 			<game>
-				<description>Tom & Jerry - Hunting High and Low (Europe)</description>
+				<description>Tom and Jerry - Hunting High and Low (Europe)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Magic Bytes</manufacturer>
@@ -48668,7 +48668,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Tom & Jerry - Hunting High and Low (Europe)</_name>
+				<_name>Tom and Jerry - Hunting High and Low (Europe)</_name>
 			</game>
 			<game>
 				<description>Tom and the Ghost (Europe)</description>
@@ -51296,7 +51296,7 @@
 				<_name>Where Time Stood Still (Europe)</_name>
 			</game>
 			<game>
-				<description>Whiplash & Wagonwheel (Europe) (Disk 1)</description>
+				<description>Whiplash and Wagonwheel (Europe) (Disk 1)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Zenobi Software</manufacturer>
@@ -51308,10 +51308,10 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Whiplash & Wagonwheel (Europe) (Disk 1)</_name>
+				<_name>Whiplash and Wagonwheel (Europe) (Disk 1)</_name>
 			</game>
 			<game>
-				<description>Whiplash & Wagonwheel (Europe) (Disk 2)</description>
+				<description>Whiplash and Wagonwheel (Europe) (Disk 2)</description>
 				<year>1989</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Zenobi Software</manufacturer>
@@ -51323,7 +51323,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Whiplash & Wagonwheel (Europe) (Disk 2)</_name>
+				<_name>Whiplash and Wagonwheel (Europe) (Disk 2)</_name>
 			</game>
 			<game>
 				<description>Whipper-Snapper's Race (Europe) (Unl)</description>
@@ -52481,7 +52481,7 @@
 				<_name>Ynis Witrin - Isle Of Glass (Europe)</_name>
 			</game>
 			<game>
-				<description>Yogi Bear & Friends in the Greed Monster (Europe)</description>
+				<description>Yogi Bear and Friends in the Greed Monster (Europe)</description>
 				<year>1990</year>
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>Hi-Tec Software</manufacturer>
@@ -52493,7 +52493,7 @@
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
-				<_name>Yogi Bear & Friends in the Greed Monster (Europe)</_name>
+				<_name>Yogi Bear and Friends in the Greed Monster (Europe)</_name>
 			</game>
 			<game>
 				<description>Yogi's Big Clean Up (Europe)</description>
@@ -52651,7 +52651,7 @@
 				<rating>Other - NR (Not Rated)</rating>
 				<manufacturer>EAS Gold</manufacturer>
 				<dev></dev>
-				<genre>Ball & Paddle</genre>
+				<genre>Ball and Paddle</genre>
 				<score></score>
 				<player></player>
 				<story></story>
