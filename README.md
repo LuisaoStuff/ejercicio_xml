@@ -12,7 +12,8 @@
 
 ### 	Ejercicio 3
 
-	Filtra los juegos desarrollados por Atari Ink
+	Pide una compañia por teclado, si existe pide un año y muestra los géneros sin repetir que lanzó
+	dicho año. Si no existe muestra un error
 
 ### 	Ejercicio 4
 
@@ -21,6 +22,10 @@
 
 ### 	Ejercicio 5
 
-	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga 
-	(los títulos, edad recomendada e historia si tiene)
+	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga
+	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre:
+		-Título
+		-Género
+		-Edad Recomendada
+		-Historia
 
