@@ -3,11 +3,12 @@ ENUNCIADO
 
 	Ejercicio 1
 
-	Lista los titulos de los juegos desarrollados en los años 80
+	Pide un año por teclado y muestra todos los juegos desarrollados en dicho año
 
 	Ejercicio 2
 
-	Cuenta el número de juegos recomendados para mayores de 17 años o adultos
+	Muestra las edades recomendadas y pide una en concreto. A continuación cuenta el número de juegos
+	con dicha edad recomendada.
 
 	Ejercicio 3
 
@@ -34,11 +35,32 @@ ENUNCIADO
 from lxml import etree
 from os import system
 
+def Pausa():
+
+	input('\n		  "Pusa enter" para volver al menú...')
+
 def JuegosPorAño(año):
 
 	listajuegos = guia.xpath('//game[year="%s"]/description/text()'%año)
 
 	return listajuegos
+
+def EliminarRepetidos(lista):
+
+	ListaSinRepetir = []
+
+	for A in lista:
+		if A not in ListaSinRepetir:
+			ListaSinRepetir.append(A)
+
+	return ListaSinRepetir
+
+def JuegosPorEdad(Categoria):
+
+	Total=guia.xpath('count(//game[rating="%s"])'%Categoria)
+	
+	return int(Total)	
+
 
 guia = etree.parse('Ataris.xml')
 
@@ -48,12 +70,19 @@ while True:
 	print('''\n\n	Elige una de las siguientes opciones:
 
 		1. Muestra los juegos desarrollados en un año concreto
+		2. Contador de juegos por "Edad recomendada"
 		0. Salir
 		''')
 
-	opcion=(int(input("\n		Opción:  ")))
-
 	try:
+
+		opcion=(int(input("\n		Opción:  ")))
+
+	except:
+
+		print('\n		Debes introducir una opción válida')		
+		Pausa()
+	else:
 
 		if opcion==0:
 
@@ -65,18 +94,34 @@ while True:
 			año=int(input("\n\n	Introduce un año concreto: "))
 			print()
 
+			if len(JuegosPorAño(año))==0:
+				print("		No se lanzaron juegos ese año.")
+
 			for juego in JuegosPorAño(año):
 				print("		",juego)
 
-			input('\n		"Pusa enter" para volver al menú...')
+			Pausa()
 
 		elif opcion==2:
-
-
 			
-#		elif opcion==2:
+			system('clear')
+			print("\n"*6)
+			EdadesRecomendadas=EliminarRepetidos(guia.xpath('//rating/text()'))
 
+			print("		    Selecciona una opcion:\n")
+			Contador=1
+			for Categoria in EdadesRecomendadas:
 
-	except:
+				print("		    ",Contador,".",Categoria)
+				Contador=Contador+1
+			
+			print("		    ",Contador,". Volver")
+			seleccion=int(input("\n			  Opción: "))
 
-		print("\n		",opcion,"no es un entero del menú.")
+			if seleccion<6:
+				system('clear')
+				print("\n"*10)
+				print("		     [",EdadesRecomendadas[seleccion-1],"] -",JuegosPorEdad(EdadesRecomendadas[seleccion-1]))
+				Pausa()
+
+		#elif opcion==3:
