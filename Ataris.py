@@ -25,14 +25,35 @@ ENUNCIADO
 	
 	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga
 	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre:
+		-Consola
 		-Título
 		-Género
 		-Edad Recomendada
 		-Historia
 '''
 
+########################################################################
+#						      Librerías							       #
+########################################################################
+
 from lxml import etree
 from os import system
+
+
+########################################################################
+#						      Funciones							       #
+########################################################################
+
+def BuscadorDeJuegos(juego):
+
+	ListaCompleta = EliminarRepetidos(guia.xpath('//game/description/text()'))
+	Saga = []
+
+	for Cartucho in ListaCompleta:
+
+		if LimpiarCadena(Cartucho).find(juego)!=-1:
+			Saga.append(Cartucho)
+	return Saga
 
 def LimpiarCadena(Cadena):
 
@@ -128,6 +149,10 @@ def AñosActividad(Compañia):
 		print("\n		",Compañia,"solo estuvo activa en",Actividad[0])
 
 	return Actividad
+
+########################################################################
+#						   Código Principal							   #
+########################################################################
 	
 guia = etree.parse('Ataris.xml')
 
@@ -202,7 +227,6 @@ while True:
 
 				Media=CalificacionMedia(Compañia)
 				Top=JuegosSobreLaMedia(Compañia,Media)
-			
 				for juego in Top:
 					print("		    ",juego)
 			else:
@@ -233,6 +257,14 @@ while True:
 
 		elif opcion==5:
 			clear(9)
+			juego=LimpiarCadena(input('''			    Buscador de juegos
+		  	    > '''))
+
+			print(BuscadorDeJuegos(juego))
+			input()
+
+
+'''
 
 			Lista=EliminarRepetidos(guia.xpath('//game[manufacturer="Atari, Inc."][score>"3.4"]/description/text()'))
 			ListaMayus=[]
@@ -240,8 +272,8 @@ while True:
 				ListaMayus.append(LimpiarCadena(juego))
 
 
-			juego=input('''			    Buscador de juegos
-		    	    > ''')
+			juego=input(''		    Buscador de juegos
+			  	    > '')
 
 			Igualador=0
 			for Cartucho in ListaMayus:
@@ -250,4 +282,4 @@ while True:
 					print(Lista[Igualador])
 
 				Igualador=Igualador+1
-			input()
+'''

@@ -25,9 +25,12 @@
 ### 	Ejercicio 5
 
 	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga
-	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre:
+	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre
+	un menú con todos los títulos y que te permita seleccionar cada uno e imprimir:
+		-Consola
 		-Título
 		-Género
 		-Edad Recomendada
 		-Historia
+	Hasta que pulses la última opción
 
