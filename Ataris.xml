@@ -240,7 +240,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Homevision</dev>
 				<genre>Shoot-'Em-Up</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>In the space shooter, you move your ship by moving the joystick in the direction you want to go. You fire by holding down the button and moving the joystick in the direction you want to shoot. You can shoot from the front of your ship, from the back or from either side.****As you move forward, you can increase to four speeds. You must avoid or shoot the meteorites, shoot the aliens (but be warned: they shoot back), and always run from the super alien.****On the screen, at the top is your score, just below that is the short range scanner. This shows you, the aliens, the meteorites and, if you run into it, the super alien. On the bottom left is the remaining ships (lives) On the bottom right is the velocity indicator. On the bottom center is the long range scanner. This shows you, the aliens and the super alien, but not the meteorites.****As the super alien approaches, there will be an alarm sound. If the super alien catches you, you will be unable to move or fire and will lose a life. The game ends is you lose all your lives or get 999,999 points.</story>
 				<enabled>Yes</enabled>
@@ -857,7 +857,7 @@
 				<genre>Sports</genre>
 				<score>3.1</score>
 				<player>1-8 Players</player>
-				<story>"California Games was the original ""Extreme Games"" ��� what today's generation might call ""X-Games in the sun"".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.****The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event."</story>
+				<story>"California Games was the original ""Extreme Games""  what today's generation might call ""X-Games in the sun"".  Players can select sponsors (absent in some versions) and compete in events such as skateboarding, footbag, surfing, roller skating, flying disc (frisbee) and BMX.  The surfing event is ranked by judges, which give a score to help the players improve their routine.****The Atari versions (2600 and Lynx) of the game omit the flying disc and roller skating events, while the Genesis version omits only the flying disc event."</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -945,9 +945,9 @@
 				<manufacturer>Funvision</manufacturer>
 				<dev>Fund. International Co.</dev>
 				<genre>Action</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
-				<story>What exactly is Challenge? It's a game where you have to take this green duck --- yes, a green duck. Well, I think it's a duck anyway --- to the end of a stage by moving up and down like in a maze. You have to avoid the frogs as you're going there though. Yes, a duck has to avoid frogs to reach the end, and he ���crosses the street��� more than once per stage, unlike Frogger. (Challenge came before Frogger, by the way) Yes, the graphics are simple. A green duck thing (it could be a mouse or a snake too, come to think of it. I guess it could be whatever you want it to be), purple frogs (they could be green cars too, actually, or bugs. I guess those are whatever you want them to be too), and a track to go around with white flashing borders are the main objects in this game. Actually, these are great graphics for an Atari game. In a normal Atari game, it probably would've been a block trying to avoid other blocks.</story>
+				<story>What exactly is Challenge? It's a game where you have to take this green duck --- yes, a green duck. Well, I think it's a duck anyway --- to the end of a stage by moving up and down like in a maze. You have to avoid the frogs as you're going there though. Yes, a duck has to avoid frogs to reach the end, and he crosses the street more than once per stage, unlike Frogger. (Challenge came before Frogger, by the way) Yes, the graphics are simple. A green duck thing (it could be a mouse or a snake too, come to think of it. I guess it could be whatever you want it to be), purple frogs (they could be green cars too, actually, or bugs. I guess those are whatever you want them to be too), and a track to go around with white flashing borders are the main objects in this game. Actually, these are great graphics for an Atari game. In a normal Atari game, it probably would've been a block trying to avoid other blocks.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -1740,9 +1740,9 @@
 				<manufacturer>Atari, Inc.</manufacturer>
 				<dev>Atari, Inc.</dev>
 				<genre>Driving</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
-				<story>Dukes of Hazzard  was a prototype that was never released, The game starts by default on level 0, but you can choose to start on any level from 0 to 10.  The object of the game is pretty straightforward: you must traverse up through Hazzard county (a layout of nearly 11 screens) and reach the jail before Boss Hog catches up with Daisy, as shown at the top of the screen.  Pushing UP applies the gas and LEFT/RIGHT controls the steering. Rosco (in his police car) chases you throughout the county in an effort to stop you (you���ll hear his police siren when he���s near); if caught, you���ll lose one of your 4 cars, and start over at the bottom of the course.  Nails can be found along the way and used to temporarily disable Rosco���s cruiser.  However, they can damage your car���s tires just as easily, so you must drive very slowly over them to safely pick them up.  Pressing the FIRE button drops the nails.  You have another advantage in that your car can move diagonally (Rosco���s can���t).  A good tip for the higher levels is to keep his car in sight behind you while moving up.  If he scrolls off the screen, he���ll possibly reappear right in front of you!</story>
+				<story>Dukes of Hazzard  was a prototype that was never released, The game starts by default on level 0, but you can choose to start on any level from 0 to 10.  The object of the game is pretty straightforward: you must traverse up through Hazzard county (a layout of nearly 11 screens) and reach the jail before Boss Hog catches up with Daisy, as shown at the top of the screen.  Pushing UP applies the gas and LEFT/RIGHT controls the steering. Rosco (in his police car) chases you throughout the county in an effort to stop you (youll hear his police siren when hes near); if caught, youll lose one of your 4 cars, and start over at the bottom of the course.  Nails can be found along the way and used to temporarily disable Roscos cruiser.  However, they can damage your cars tires just as easily, so you must drive very slowly over them to safely pick them up.  Pressing the FIRE button drops the nails.  You have another advantage in that your car can move diagonally (Roscos cant).  A good tip for the higher levels is to keep his car in sight behind you while moving up.  If he scrolls off the screen, hell possibly reappear right in front of you!</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -1905,7 +1905,7 @@
 				<manufacturer>Skill Screen Games</manufacturer>
 				<dev>Skill Screen Games</dev>
 				<genre>Maze</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Extra Terrestrials was originally programmed in 1984 by Herman Quast and Silk Screen Games in Brantford Ontario, Canada. Unfortunately, by the time the game was finished, the video game market had crashed and since Silk Screen Games had no distributor, only sold a few hundred copies at most to local stores and door to door. Because this game wasn't officially licensed, it never popped up on any list until Silk Screen Games founder Peter Banting found a copy and donated it to the Personal Computer Museum.</story>
 				<enabled>Yes</enabled>
@@ -2190,7 +2190,7 @@
 				<manufacturer>Home Vision</manufacturer>
 				<dev>Gem International Corp</dev>
 				<genre>Action</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Frisco is an Action game, published by Homevision, which was cancelled before it was released.</story>
 				<enabled>Yes</enabled>
@@ -2252,7 +2252,7 @@
 				<genre>Shooter</genre>
 				<score>2.2</score>
 				<player>1-2 Players</player>
-				<story>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0��. You have four lives.</story>
+				<story>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0. You have four lives.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -2267,7 +2267,7 @@
 				<genre>Puzzle</genre>
 				<score>3.7</score>
 				<player>1-2 Players</player>
-				<story>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0��. You have four lives</story>
+				<story>You're an Eskimo who wants to build an igloo to live in during the cold season. To do this, you must jump from ice-block to ice-block, while avoiding wildlife such as birds and crabs. Coming with contact with any of these will cause them to push you off the block and into the deadly water. Once you have built your igloo, you must enter it to proceed to the next level. Remember, you must build it before the temperature drops to 0. You have four lives</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -2310,7 +2310,7 @@
 				<manufacturer>Gammation</manufacturer>
 				<dev>Gammation</dev>
 				<genre>Shoot-'Em-Up</genre>
-				<score>���</score>
+				<score></score>
 				<player>1-2 Players</player>
 				<story>"You are the commander of the only Gamma ship in this stellar field.  The Vegan war fleet has taken control of your Gamma outpost planet and is defending it with Vegan laser pulse tanks.  This planet is the only inhabitable planet in this star system, and you must stay there and fight the Vegans as long as you can.Move your ship across the surface of the planet and destroy Vegan tanks that you encounter.  Destroying all tanks advances the player to the next level.  Each laser pulse that your Gamma ship receives reduces your hovering altitude.  When your ship crashes, the ""Gammy"" appears and your game is over."</story>
 				<enabled>Yes</enabled>
@@ -2625,9 +2625,9 @@
 				<manufacturer>Multivision</manufacturer>
 				<dev>Multivision</dev>
 				<genre>Mature</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
-				<story>"Your character starts at the lower left of a multi-tiered screen and must make his way to the beautiful(?) woman to the right, however you'll soon find out that someone is out to stop your stud monkey conquests at all costs.  The first obstacle you'll encounter takes the form of a sniper hiding in a bush.  Why would a sniper be hiding in a bush just to shoot you in the buttocks?  Why not?  As you approach the bush a bullet will fly out in your direction, killing you if it makes contact.  To get past the sniper, simply run away a few times until he has to reload (the bullets will stop) and then run past the bush.  Once you're past the bush, you can run into your lady's loving arms and explore a different kind of bush��� Each time you make it to one of the women, you will start the ""humping"" mini-game.  Your goal here is to meet her thrusts by pushing right every time she thrusts her pelvis.  If you're successful in your timing you will score a point and a tone will sound.  Each time you score a point, the tone will get higher and higher indicating that danger is approaching.  If you continue to ""score"" past a certain point (around 8 or so points) your woman will appear to explode and you will fall into a pit and die (I guess you were a little too much for her).  To avoid this, make sure you push the button to escape before this happens.  If you manage to score 69 points you will earn an extra life.The next obstacle you must face comes in the form of a river.  While conceptually this is the easiest obstacle to clear, the iffy collision detection makes it much more difficult than it should be.  To clear the river, simply run towards to it and push the button when your back foot is on the edge of the bank (not your front foot).  Assuming you timed it right, you will go flying over the river and meet yet another woman.  You know what to do���After you've scored as many points as you dare, you will be taken to the next area of the screen.  Here you must run past a dangerous fire breathing dragon, which is much more difficult than it sounds.  The trick to getting past the dragon is to wait for it to breathe fire, then quickly run by him.  Once you're past the dragon you'll undoubtedly notice the large pit ahead of you.  Here you must wait for the snake to change into a woman and then quickly drop down into the pit to ""do the deed"".  The timing on this is rather tricky as you can't simply wait around for the snake to change because the dragon is chasing you.  If you manage to time it just right and find the woman, you'll be taken to the last area of the game.In this final area you must chase down the woman running around the top of the castle as they aren't just going to wait around for you anymore.  As you chase your dream date, you'll notice that ugly little faces appear to be puking on you.  These are actually gargoyles, and they're trying to dump lava on you.  The gargoyles are easily avoided by stopping when they breathe fire, and since there are no other dangers on this level, you're free to stop and start the pursuit at will.  Each time you catch the woman you can score a few points in the standard manner, but she'll run away again and the chase continues���"</story>
+				<story>"Your character starts at the lower left of a multi-tiered screen and must make his way to the beautiful(?) woman to the right, however you'll soon find out that someone is out to stop your stud monkey conquests at all costs.  The first obstacle you'll encounter takes the form of a sniper hiding in a bush.  Why would a sniper be hiding in a bush just to shoot you in the buttocks?  Why not?  As you approach the bush a bullet will fly out in your direction, killing you if it makes contact.  To get past the sniper, simply run away a few times until he has to reload (the bullets will stop) and then run past the bush.  Once you're past the bush, you can run into your lady's loving arms and explore a different kind of bush Each time you make it to one of the women, you will start the ""humping"" mini-game.  Your goal here is to meet her thrusts by pushing right every time she thrusts her pelvis.  If you're successful in your timing you will score a point and a tone will sound.  Each time you score a point, the tone will get higher and higher indicating that danger is approaching.  If you continue to ""score"" past a certain point (around 8 or so points) your woman will appear to explode and you will fall into a pit and die (I guess you were a little too much for her).  To avoid this, make sure you push the button to escape before this happens.  If you manage to score 69 points you will earn an extra life.The next obstacle you must face comes in the form of a river.  While conceptually this is the easiest obstacle to clear, the iffy collision detection makes it much more difficult than it should be.  To clear the river, simply run towards to it and push the button when your back foot is on the edge of the bank (not your front foot).  Assuming you timed it right, you will go flying over the river and meet yet another woman.  You know what to doAfter you've scored as many points as you dare, you will be taken to the next area of the screen.  Here you must run past a dangerous fire breathing dragon, which is much more difficult than it sounds.  The trick to getting past the dragon is to wait for it to breathe fire, then quickly run by him.  Once you're past the dragon you'll undoubtedly notice the large pit ahead of you.  Here you must wait for the snake to change into a woman and then quickly drop down into the pit to ""do the deed"".  The timing on this is rather tricky as you can't simply wait around for the snake to change because the dragon is chasing you.  If you manage to time it just right and find the woman, you'll be taken to the last area of the game.In this final area you must chase down the woman running around the top of the castle as they aren't just going to wait around for you anymore.  As you chase your dream date, you'll notice that ugly little faces appear to be puking on you.  These are actually gargoyles, and they're trying to dump lava on you.  The gargoyles are easily avoided by stopping when they breathe fire, and since there are no other dangers on this level, you're free to stop and start the pursuit at will.  Each time you catch the woman you can score a few points in the standard manner, but she'll run away again and the chase continues"</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -2730,7 +2730,7 @@
 				<manufacturer>Funvision</manufacturer>
 				<dev>Fund. International Co.</dev>
 				<genre>Platform</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Like many games that followed the Donkey Kong line, your goal in Inca Gold is to reach the upper platform, where a large creature throws enemies toward you. your mission is to climb on top of the platform and collect the gold</story>
 				<enabled>Yes</enabled>
@@ -5055,7 +5055,7 @@
 				<manufacturer>Suntek</manufacturer>
 				<dev>Suntek</dev>
 				<genre>Sports/Skiing</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>While down a big mountain of ice, the player must follow the ugly route with trees, there will be many obstacles in your way, like trees that were not cut, and snow leopards, which will cross the road running. Stay tuned for when a yellow stripe appears in the snow, this indicates that an avalanche area is nearby, so you should skip to not be swallowed by the snow.Ski Run is a fast and with good graphics game, maybe your only problem is the difficulty of the game, which does not change much as the player passes the stages, making the game a bit drab</story>
 				<enabled>Yes</enabled>
@@ -5475,7 +5475,7 @@
 				<manufacturer>Suntek</manufacturer>
 				<dev>Suntek</dev>
 				<genre>Shooter</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>The portal gives the reference color to the player decreases over time after it disappears a new take its place with a new color, making the player search for another target color. If a shot hits a block of wrong color, points will be deducted from the overall score.In addition to worrying about hitting the crosshairs with the limited mobility of the controls, the player must deviate from bolar trying to reach you.</story>
 				<enabled>Yes</enabled>
@@ -6480,7 +6480,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Gem International Corp.</dev>
 				<genre>Action</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>The aim of the game is to get rid of the greatest number of moles possible, but beware of the holes they made you can end up falling in pursuit.</story>
 				<enabled>Yes</enabled>
@@ -6525,7 +6525,7 @@
 				<manufacturer>Video Gems</manufacturer>
 				<dev>Video Gems</dev>
 				<genre>Action</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Ther's Fabulous golden treasure down there just waiting to be taken thers also much danger with jelly fish, octupus, sharks and other undersea creatures patrolling the deep. you've got your trusty knife and speargun for protection.</story>
 				<enabled>Yes</enabled>
@@ -6587,7 +6587,7 @@
 				<genre>Maze</genre>
 				<score>3.8</score>
 				<player>1 Player</player>
-				<story>"Tunnel Runner"" is an advanced 3D Maze Game, essentially what a 1st person version of Pac-Man game would be like.  Because ���Tunnel Runner��� was designed with a built-in expanded memory chip (RAM Plus!), it's 12KB of memory gives it the ability to present the maze in three dimensions.  Therefore, the playfield is a colorful, three-dimensional maze, so you never see yourself... just the walls on either side of you that form the corridors you travel along.  As you move along the passage-ways, additional tunnels appear on either side, which you can turn into by pressing left and right.Your primary goal is to locate and collect the hidden key, located in a different spot within each maze.  Through the assistance of a MAP, you can maneuver within the maze.  While attempting to locate the key to exit the level, you must also avoid the hungry Zot���s.  You will discover these enemy creatures throughout the maze.  Successfully recovering the key without being intercepted by the Zot's opens the portal to the next level.  As you pass each level, you will discover that the complexity and difficulty increases, while your MAP gradually reveals less and less information��� ultimately, your map will be of little use, requiring you to survive solely by instincts and quick thinking!"</story>
+				<story>"Tunnel Runner"" is an advanced 3D Maze Game, essentially what a 1st person version of Pac-Man game would be like.  Because Tunnel Runner was designed with a built-in expanded memory chip (RAM Plus!), it's 12KB of memory gives it the ability to present the maze in three dimensions.  Therefore, the playfield is a colorful, three-dimensional maze, so you never see yourself... just the walls on either side of you that form the corridors you travel along.  As you move along the passage-ways, additional tunnels appear on either side, which you can turn into by pressing left and right.Your primary goal is to locate and collect the hidden key, located in a different spot within each maze.  Through the assistance of a MAP, you can maneuver within the maze.  While attempting to locate the key to exit the level, you must also avoid the hungry Zots.  You will discover these enemy creatures throughout the maze.  Successfully recovering the key without being intercepted by the Zot's opens the portal to the next level.  As you pass each level, you will discover that the complexity and difficulty increases, while your MAP gradually reveals less and less information ultimately, your map will be of little use, requiring you to survive solely by instincts and quick thinking!"</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -6602,7 +6602,7 @@
 				<genre>Shooter</genre>
 				<score>3.0</score>
 				<player>1 Player</player>
-				<story>Turmoil is a fast-paced shooter. You pilot a ship that is trapped within a chamber of seven tunnels.  Your ship can only move up and down along a vertical corridor connecting the tunnels.  You are not alone, however.  A variety of enemies travel along these tunnels, focused on destroying you.  Therefore, the ultimate objective of ���Turmoil��� is to zoom up and down the center alley and blast aliens as they streak by.  Keep shooting and keep moving, and you will survive to live another day!  As you move quickly up and down, you must also fire your own weapons into to the left or right side.  Part of the intensity of this game is driven by the fact that you can't stay in one place for too long.  If you do, an indestructible enemy will come flying at you, forcing to move onward once more.The enemy ships you will encounter in each of the seven tunnels travel at a variety of unique speeds.  The faster a given enemy moves, the more points you will receive if you shoot them.  Occasionally when you destroy one of the enemy ships, a flashing orb will appear at the far end of the tunnel.  This is the one exception where you are not restricted to your vertical pathway.  In these situations you are allowed to move down the tunnel to recover it.  If you grab it quickly, it is worth bonus points.  If you hesitate, it hatches into a fast moving missile and will destroy you if you get in its way. When you start a game of Turmoil, you are given five ships.  If you can blast all of the aliens in a level, you'll receive a bonus ship.  In addition to your current ship, you can hold as many as six reserve ships at one time.  You will loose a ship if you make contact with any of the passing aliens.  There are nine levels to the game, each with multiple waves to complete, and each one faster and more challenging then the previous level.  This is considered by many to be one of 20th Century Fox's best games.</story>
+				<story>Turmoil is a fast-paced shooter. You pilot a ship that is trapped within a chamber of seven tunnels.  Your ship can only move up and down along a vertical corridor connecting the tunnels.  You are not alone, however.  A variety of enemies travel along these tunnels, focused on destroying you.  Therefore, the ultimate objective of Turmoil is to zoom up and down the center alley and blast aliens as they streak by.  Keep shooting and keep moving, and you will survive to live another day!  As you move quickly up and down, you must also fire your own weapons into to the left or right side.  Part of the intensity of this game is driven by the fact that you can't stay in one place for too long.  If you do, an indestructible enemy will come flying at you, forcing to move onward once more.The enemy ships you will encounter in each of the seven tunnels travel at a variety of unique speeds.  The faster a given enemy moves, the more points you will receive if you shoot them.  Occasionally when you destroy one of the enemy ships, a flashing orb will appear at the far end of the tunnel.  This is the one exception where you are not restricted to your vertical pathway.  In these situations you are allowed to move down the tunnel to recover it.  If you grab it quickly, it is worth bonus points.  If you hesitate, it hatches into a fast moving missile and will destroy you if you get in its way. When you start a game of Turmoil, you are given five ships.  If you can blast all of the aliens in a level, you'll receive a bonus ship.  In addition to your current ship, you can hold as many as six reserve ships at one time.  You will loose a ship if you make contact with any of the passing aliens.  There are nine levels to the game, each with multiple waves to complete, and each one faster and more challenging then the previous level.  This is considered by many to be one of 20th Century Fox's best games.</story>
 				<enabled>Yes</enabled>
 				<crc></crc>
 				<cloneof></cloneof>
@@ -6645,7 +6645,7 @@
 				<manufacturer>Datatech</manufacturer>
 				<dev>Datatech</dev>
 				<genre>Action</genre>
-				<score>���</score>
+				<score></score>
 				<player>1-2 Players</player>
 				<story>Try to reach the symbols at the top of the screen before you run out of energy by walking an invisible path on a randomly generated grid while avoiding UFO's and rocks dropped by birds.You can choose a new path at the bottom of the screen.</story>
 				<enabled>Yes</enabled>
@@ -6825,7 +6825,7 @@
 				<manufacturer>Suntek</manufacturer>
 				<dev>Suntek</dev>
 				<genre>Platform</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Walker is a game somewhat different, your goal is to jump the police and get to the end of six stages, then everything started again, but with time passing faster, to the point where you can no longer pass for lack of time. The game seeks to bring a challenge to the player.</story>
 				<enabled>Yes</enabled>
@@ -6855,7 +6855,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Gem International Corp.</dev>
 				<genre>Shooter</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>your city is under the most vicous attack, your mission is to guard the city wall and prevent them from collapsing</story>
 				<enabled>Yes</enabled>
@@ -6960,7 +6960,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Gem International Corp.</dev>
 				<genre>Shoot-'Em-Up</genre>
-				<score>���</score>
+				<score></score>
 				<player>1-2 Players</player>
 				<story>Fight against alien forces and not let them pass you by, for each one to go is a life less.</story>
 				<enabled>Yes</enabled>
@@ -7005,7 +7005,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Gem International Corp.</dev>
 				<genre>Shoot-'Em-Up</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>In X'Mission The player controls a kind of flying saucer, your main goal is to reach the structure that moves in the corner.  Properly touching it, the player will dock your ship to the structure, which will carry you to the next level. Along the way the player will encounter many enemies who may or may not be slaughtered (depending on the will of the player to get more points).</story>
 				<enabled>Yes</enabled>
@@ -7065,7 +7065,7 @@
 				<manufacturer>Homevision</manufacturer>
 				<dev>Gem International Corp.</dev>
 				<genre>Platform</genre>
-				<score>���</score>
+				<score></score>
 				<player>1 Player</player>
 				<story>Incomprehensible game about collecting zoo animals. The game is based on the code of Panda Chase from Home Vision (you can still see the little panda heads when you run out of time).</story>
 				<enabled>Yes</enabled>
@@ -7266,7 +7266,7 @@
 				<year>1984</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Midway Games West, Inc.</manufacturer>
-				<dev>Br��derbund Software, Inc.</dev>
+				<dev>Brderbund Software, Inc.</dev>
 				<genre>Action</genre>
 				<score>3.7</score>
 				<player>1 Player</player>
@@ -8294,7 +8294,7 @@
 				<year>1988</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Atari Corporation</manufacturer>
-				<dev>Br��derbund Software, Inc.</dev>
+				<dev>Brderbund Software, Inc.</dev>
 				<genre>Shoot-'Em-Up</genre>
 				<score>2.4</score>
 				<player>1 Player</player>
@@ -8594,7 +8594,7 @@
 				<year>1987</year>
 				<rating>ESRB - E (Everyone)</rating>
 				<manufacturer>Atari Corporation</manufacturer>
-				<dev>Br��derbund Software, Inc.</dev>
+				<dev>Brderbund Software, Inc.</dev>
 				<genre>Fighter</genre>
 				<score>3.0</score>
 				<player>1 Player</player>

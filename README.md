@@ -8,17 +8,19 @@
 
 ### 	Ejercicio 2
 
-	Cuenta el número de juegos recomendados para mayores de 17 años o adultos
+	Muestra las edades recomendadas y pide una en concreto. A continuación cuenta el número de juegos
+	con dicha edad recomendada.
 
 ### 	Ejercicio 3
 
-	Pide una compañia por teclado, si existe pide un año y muestra los géneros sin repetir que lanzó
-	dicho año. Si no existe muestra un error
+	Pide una compañia por teclado tras imprimir una lista de estas. Imprime solo los juegos que tuvieron
+	una calificación por encima de su media.
 
 ### 	Ejercicio 4
 
-	Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si
-	no existe muestra un error.
+	Muestra una lista de todas las compañias por pantalla. Pide una y enseña los años en los que estuvo
+	activa. A continuación pide uno de esos años e imprime los géneros en los que se enfocó dicho año.
+
 
 ### 	Ejercicio 5
 
