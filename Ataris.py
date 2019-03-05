@@ -23,13 +23,15 @@ ENUNCIADO
 	Ejercicio 5
 
 	
-	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga la saga
-	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre:
+	Pide una cadena por teclado. Si hay un juego con ese nombre muestra todos los que tenga que ver
+	en una lista. A continuación muestra un menú con dichos juegos donde si selecciona alguno muestre
+	un menú con todos los títulos y que te permita seleccionar cada uno e imprimir:
 		-Consola
 		-Título
 		-Género
 		-Edad Recomendada
-		-Historia
+		-Descripcion
+	Hasta que pulses la última opción
 '''
 
 ########################################################################
@@ -54,6 +56,28 @@ def BuscadorDeJuegos(juego):
 		if LimpiarCadena(Cartucho).find(juego)!=-1:
 			Saga.append(Cartucho)
 	return Saga
+
+def wikiJuego(juego):
+
+	clear(0)
+	Consola=guia.xpath('//game[description="%s"]/../header/listname/text()'%juego)
+	Genero=guia.xpath('//game[description="%s"]/genre/text()'%juego)
+	EdadRecomendada=guia.xpath('//game[description="%s"]/rating/text()'%juego)
+	Descripcion=guia.xpath('//game[description="%s"]/story/text()'%juego)
+		
+	#wiki={"Consola":Consola,"Titulo":juego,"Genero":Genero,"Edad Recomendada":EdadRecomendada,"Historia":Historia}
+	#print(wiki)
+	
+	print('''		Consola:  %s
+		Titulo:   %s
+		Genero:   %s
+		Edad Recomendada: %s
+		'''%(Consola[0],juego,Genero[0],EdadRecomendada[0]))
+	try:
+		print("		Descripcion:	",Descripcion[0])
+	except:
+		print("		Descripcion:	???")
+	Pausa()
 
 def LimpiarCadena(Cadena):
 
@@ -203,13 +227,13 @@ while True:
 			EdadesRecomendadas=EliminarRepetidos(guia.xpath('//rating/text()'))
 
 			print("		    Selecciona una opcion:\n")
-			Contador=1
+			Indice=1
 			for Categoria in EdadesRecomendadas:
 
-				print("		    ",Contador,".",Categoria)
-				Contador=Contador+1
+				print("		    ",Indice,".",Categoria)
+				Indice=Indice+1
 			
-			print("		    ",Contador,". Volver")
+			print("		    ",Indice,". Volver")
 			seleccion=int(input("\n			  Opción: "))
 
 			if seleccion<6:
@@ -259,9 +283,31 @@ while True:
 			clear(9)
 			juego=LimpiarCadena(input('''			    Buscador de juegos
 		  	    > '''))
+			Saga=BuscadorDeJuegos(juego)
+			if len(Saga)>1:
 
-			print(BuscadorDeJuegos(juego))
-			input()
+				while True:
+					clear(9-len(Saga)//3)
+					Indice=1
+					for Cartucho in Saga:
+						print("	          ",Indice,".",Cartucho)
+						Indice=Indice+1
+					print("	           0 . Salir")
+					try:		
+						Seleccion=int(input("\n	           Seleccion:	"))	
+						if Seleccion==0:
+							break
+						elif Seleccion-1<len(Saga):
+							wikiJuego(Saga[Seleccion-1])
+						else:
+							print("			    Debes introducir una opcion del menú.")
+							Pausa()
+					except:
+						print("			    Debes introducir una opcion del menú.")
+						Pausa()
+			else:
+				print("	   No se han encontrado juegos con la palabra:",juego)
+				Pausa()
 
 
 '''
