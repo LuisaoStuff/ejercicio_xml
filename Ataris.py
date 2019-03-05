@@ -35,6 +35,30 @@ ENUNCIADO
 from lxml import etree
 from os import system
 
+def MenuCompañias():
+
+	ListaCompañias=EliminarRepetidos(guia.xpath('//game/manufacturer/text()'))
+	
+	for Compañia in ListaCompañias:
+
+		print("		",Compañia)
+		system('echo "		  {}" >> ListaCompañias &2> /dev/null'.format(Compañia))
+	
+	print()
+	Decision=input("\n		  ¿Deseas paginarlo con less?		").upper()
+
+	Afirmacion=['SI','YES','S','Y']
+
+	if Decision in Afirmacion:
+		system('less ListaCompañias')
+	system('rm ListaCompañias')
+
+
+def clear(Espaciado):
+
+	system('clear')
+	print("\n"*Espaciado)
+
 def Pausa():
 
 	input('\n		  "Pusa enter" para volver al menú...')
@@ -66,11 +90,12 @@ guia = etree.parse('Ataris.xml')
 
 while True:
 
-	system('clear')
+	clear(0)
 	print('''\n\n	Elige una de las siguientes opciones:
 
 		1. Muestra los juegos desarrollados en un año concreto
 		2. Contador de juegos por "Edad recomendada"
+		3. Géneros lanzados por cada compañia
 		0. Salir
 		''')
 
@@ -86,7 +111,7 @@ while True:
 
 		if opcion==0:
 
-			system('clear')
+			clear(0)
 			break
 
 		elif opcion==1:
@@ -104,8 +129,7 @@ while True:
 
 		elif opcion==2:
 			
-			system('clear')
-			print("\n"*6)
+			clear(6)
 			EdadesRecomendadas=EliminarRepetidos(guia.xpath('//rating/text()'))
 
 			print("		    Selecciona una opcion:\n")
@@ -119,9 +143,11 @@ while True:
 			seleccion=int(input("\n			  Opción: "))
 
 			if seleccion<6:
-				system('clear')
-				print("\n"*10)
+				clear(10)
 				print("		     [",EdadesRecomendadas[seleccion-1],"] -",JuegosPorEdad(EdadesRecomendadas[seleccion-1]))
 				Pausa()
 
-		#elif opcion==3:
+		elif opcion==3:
+
+			clear(6)
+			MenuCompañias()
