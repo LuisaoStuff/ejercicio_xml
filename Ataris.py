@@ -20,8 +20,6 @@ ENUNCIADO
 	Pide una compañia por teclado, si existe muestra los años en los que desarrolló videojuegos y si 
 	no existe muestra un error.
 
-
-
 	Ejercicio 5
 
 	
@@ -34,6 +32,7 @@ ENUNCIADO
 '''
 
 from lxml import etree
+from os import system
 
 def JuegosPorAño(año):
 
@@ -45,6 +44,7 @@ guia = etree.parse('Ataris.xml')
 
 while True:
 
+	system('clear')
 	print('''\n\n	Elige una de las siguientes opciones:
 
 		1. Muestra los juegos desarrollados en un año concreto
@@ -57,13 +57,26 @@ while True:
 
 		if opcion==0:
 
+			system('clear')
 			break
 
 		elif opcion==1:
 
-			año=int(input("	Introduce un año concreto: "))
+			año=int(input("\n\n	Introduce un año concreto: "))
+			print()
 
-			print(JuegosPorAño(año))
+			for juego in JuegosPorAño(año):
+				print("		",juego)
+
+			input('\n		"Pusa enter" para volver al menú...')
+
+		elif opcion==2:
+
+
+			
+#		elif opcion==2:
+
 
 	except:
+
 		print("\n		",opcion,"no es un entero del menú.")
