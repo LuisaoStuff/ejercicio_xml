@@ -34,6 +34,11 @@ ENUNCIADO
 from lxml import etree
 from os import system
 
+def LimpiarCadena(Cadena):
+
+	CadenaLimpia=Cadena.upper().replace(".","").replace(" ","").replace("-","")
+	return CadenaLimpia
+
 def JuegosSobreLaMedia(Compañia,Media):
 
 	JuegosValorados=guia.xpath('//game[manufacturer="%s"][score>"%s"]/description/text()'%(Compañia,Media))
@@ -225,3 +230,24 @@ while True:
 			for Genero in ListaGeneros:
 				print("		",Genero)
 			Pausa()
+
+		elif opcion==5:
+			clear(9)
+
+			Lista=EliminarRepetidos(guia.xpath('//game[manufacturer="Atari, Inc."][score>"3.4"]/description/text()'))
+			ListaMayus=[]
+			for juego in Lista:
+				ListaMayus.append(LimpiarCadena(juego))
+
+
+			juego=input('''			    Buscador de juegos
+		    	    > ''')
+
+			Igualador=0
+			for Cartucho in ListaMayus:
+
+				if Cartucho.find(LimpiarCadena(juego))!=-1:
+					print(Lista[Igualador])
+
+				Igualador=Igualador+1
+			input()
